@@ -13,13 +13,16 @@ Data Cleaning
 
 ↓
 EDA Analysis
+
 ↓
 Customer Segmentation
 
 ↓
 Churn Prediction
+
 ↓
 Business Recommendations
+
 
 ↓
 Power BI Dashboard
