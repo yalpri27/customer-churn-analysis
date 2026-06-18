@@ -32,7 +32,8 @@ Power BI Dashboard
 
 ## Dashboard Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6a614de-01f0-4412-a0b4-01328297264b" />
+<img width="1354" height="763" alt="churndashboard" src="https://github.com/user-attachments/assets/3e27713d-0062-4cdb-aa4c-af9c6e3eb78d" />
+
 
 
 ## Key Insights
