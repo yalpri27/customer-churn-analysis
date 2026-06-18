@@ -7,18 +7,23 @@ This project analyzes customer behavior and predicts customer churn using Machin
 ## Project Workflow
 
 Raw Data
+
 ↓
 Data Cleaning
+
 ↓
 EDA Analysis
 ↓
 Customer Segmentation
+
 ↓
 Churn Prediction
 ↓
 Business Recommendations
+
 ↓
 Power BI Dashboard
+
 
 ## Tools Used
 
